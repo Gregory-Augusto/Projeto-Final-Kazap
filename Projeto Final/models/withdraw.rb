@@ -1,4 +1,4 @@
-class Withdraw < Sequel::Model 
+class ModelWithdraw < Sequel::Model 
 
     plugin :validation_helpers
 

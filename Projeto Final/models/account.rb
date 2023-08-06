@@ -1,4 +1,4 @@
-class Account < Sequel::Model 
+class ModelAccount < Sequel::Model 
 
     plugin :validation_helpers
 

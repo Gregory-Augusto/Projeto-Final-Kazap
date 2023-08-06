@@ -1,4 +1,4 @@
-class Ted < Sequel::Model 
+class ModelTed < Sequel::Model 
 
     plugin :validation_helpers
 

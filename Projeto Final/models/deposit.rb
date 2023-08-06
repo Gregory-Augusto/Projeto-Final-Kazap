@@ -1,4 +1,4 @@
-class Deposit < Sequel::Model 
+class ModelDeposit < Sequel::Model 
 
     plugin :validation_helpers
 

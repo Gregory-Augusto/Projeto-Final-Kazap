@@ -1,4 +1,4 @@
-class Phone < Sequel::Model 
+class ModelPhone < Sequel::Model 
 
     plugin :validation_helpers
 

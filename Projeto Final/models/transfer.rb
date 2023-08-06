@@ -1,4 +1,4 @@
-class Transfer < Sequel::Model 
+class ModelTransfer < Sequel::Model 
 
     plugin :validation_helpers
 

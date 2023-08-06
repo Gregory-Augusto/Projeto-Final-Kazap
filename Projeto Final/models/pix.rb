@@ -1,4 +1,4 @@
-class Pix < Sequel::Model 
+class ModelPix < Sequel::Model 
 
     plugin :validation_helpers
 

@@ -1,4 +1,4 @@
-class Transaction < Sequel::Model 
+class ModelTransaction < Sequel::Model 
 
     plugin :validation_helpers
 

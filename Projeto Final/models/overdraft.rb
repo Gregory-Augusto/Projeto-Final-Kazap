@@ -1,4 +1,4 @@
-class Overdraft < Sequel::Model 
+class ModelOverdraft < Sequel::Model 
 
     plugin :validation_helpers
 

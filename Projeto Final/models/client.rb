@@ -1,4 +1,4 @@
-class Client < Sequel::Model
+class ModelClient < Sequel::Model
 
     plugin :validation_helpers
 
